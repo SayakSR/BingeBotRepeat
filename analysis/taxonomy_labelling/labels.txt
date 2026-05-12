@@ -1,0 +1,166 @@
+## PIRACY LABELS
+
+### PRIMARY LABELS (Distribution Strategies)
+Exactly one primary label must be assigned for each piracy post.
+
+### Direct Download
+Posts that distribute pirated media directly as files or attachments within the platform, without relying on external http/https links as the main delivery path.
+
+### Channel/Bot Routing
+Posts that route users to channels, bots, or in-platform paths to obtain pirated content (internal or Telegram-centric distribution rather than generic web links).
+
+### Streaming/Magnet Links
+Posts that use unauthorized streaming entry points, torrents, magnet links, or similar peer-to-peer / streaming mechanisms to access pirated content.
+
+### Cloud Storage Links
+Posts that link to pirated files hosted on cloud storage, file hosting, or comparable external file-sharing endpoints.
+
+### SECONDARY LABELS (Operational and Ecosystem Signals)
+Assign secondary labels when these operational or ecosystem signals are salient in the post. 
+
+### Dedicated Content Channels
+Posts that promote or rely on dedicated channels whose main role is hosting or distributing pirated material.
+
+### Directory/Index Channels
+Posts that point to directory, index, or aggregator channels that catalog or list piracy sources.
+
+### Backup Channels
+Posts advertising backup channels, mirror sites, or alternate destinations after bans, takedowns, or link removals.
+
+### Intermediary Routing
+Posts that use intermediate hops, forwarding, or routing layers between the user and the pirated content.
+
+### VPNs/Proxies/Mirrors
+Posts that emphasize VPNs, proxies, mirrors, DNS or circumvention-style access to reach pirated sources or blocked endpoints.
+
+### Modded Streaming Apps
+Posts promoting or distributing modified streaming applications or players used to access pirated streams.
+
+### Streaming Credentials
+Posts offering, sharing, or trading credentials, shared accounts, or unauthorized access to paid streaming services.
+
+### Access Tutorials
+Posts with step-by-step instructions to stream, download, or unlock pirated content or tools.
+
+### Content Delivery Bots
+Bots whose primary role is delivering pirated files or streams to users.
+
+### Dynamic Retrieval Bots
+Bots that fetch, resolve, or assemble content on demand rather than static file drops.
+
+### Channel Promotion Bots
+Bots used mainly to advertise channels, groups, or directories for piracy.
+
+### Content Ingestion Bots
+Bots or automation described as ingesting, mirroring, or reposting pirated content from other sources.
+
+### Content Requests
+Posts where users ask for specific pirated titles or providers fulfill such requests.
+
+### Channel Referrals
+Posts that recruit users to join channels, groups, or invite-only piracy communities.
+
+### Forced Join
+Posts or flows that coerce or strongly pressure users into joining channels or groups to access content.
+
+### Credit Purchase
+Posts where access depends on buying credits, vouchers, or similar paid tokens for pirated content or bots.
+
+### Premium Quality Tiers
+Posts selling higher tiers of quality, bitrate, or exclusivity for pirated content.
+
+### Incentivized User Uploads
+Posts that reward or incentivize users to upload, seed, or contribute pirated material.
+
+### Resolution/Encoding
+Posts explicitly highlighting resolution, codecs, encodes, or release-quality tags (e.g., 1080p, x265, WEB-DL).
+
+### Bundled Collections
+Posts offering packs, seasons, bulk archives, or bundled sets of pirated media.
+
+### Subtitles/Dubs
+Posts emphasizing subtitles, dubs, language tracks, or localization of pirated content.
+
+## BENIGN LABELS
+Assign exactly one benign label for each benign post. 
+
+### Entertainment News
+Posts sharing news and updates about movies, TV shows, celebrities, and the entertainment industry.
+
+### Media Recommendations & Reviews
+Posts suggesting or reviewing movies, TV series, anime, or other media, including ratings and opinions.
+
+### Music Content & Promotion
+Posts sharing music, artist updates, album releases, or promotional content related to music.
+
+### Fan & Creative Content
+Posts sharing fan-made edits, artwork, aesthetic media, or creative content.
+
+### Humor & Memes
+Posts containing jokes, memes, or humorous content.
+
+### Streaming & Release Updates
+Posts announcing availability, releases, or updates of content on official streaming platforms.
+
+### News & Current Events
+Posts discussing general news, global events, or current affairs.
+
+### Educational Content
+Posts providing educational material, tutorials, explanations, or academic-style content.
+
+### Technical Tutorials & DIY
+Posts offering how-to guides, technical tutorials, or DIY instructions.
+
+### Technology & Digital Content
+Posts about technology news, tools, software, services, or product reviews.
+
+### Digital Security & Privacy
+Posts offering advice or information about cybersecurity, privacy, and online safety.
+
+### Trivia & Informational Content
+Posts sharing facts, trivia, behind-the-scenes insights, or informational snippets.
+
+### General Discussion
+Open-ended or conversational posts that do not fit a specific category.
+
+### Polls & Social Interaction
+Posts asking for opinions, conducting polls, or encouraging interaction.
+
+### Community & Channel Updates
+Posts about group updates, announcements, or administrative messages.
+
+### Personal Updates & Stories
+Posts sharing personal experiences or life updates.
+
+### Emotional Expression & Motivation
+Posts expressing emotions or motivational messages.
+
+### Greetings & Celebrations
+Posts related to greetings, holidays, or celebrations.
+
+### Health, Fitness & Wellness
+Posts related to physical or mental health and lifestyle improvement.
+
+### Travel & Exploration
+Posts about travel advice, destinations, or photography.
+
+### Food & Cooking
+Posts sharing recipes or cooking-related content.
+
+### Family & Parenting
+Posts discussing parenting, family life, or child development.
+
+### Religion & Spirituality
+Posts containing religious or spiritual messages.
+
+### Nature & Environment
+Posts related to nature, wildlife, or environmental topics.
+
+### Astrology & Horoscopes
+Posts related to astrology or fortune-telling.
+
+### Events & Schedules
+Posts listing or announcing schedules for events or activities.
+
+### Charity & Campaigns
+Posts promoting charitable causes or awareness campaigns.
