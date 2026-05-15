@@ -1,0 +1,9 @@
+# GPU + CUDA. Install in a conda/venv matching your CUDA build.
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+datasets
+trl
+unsloth
